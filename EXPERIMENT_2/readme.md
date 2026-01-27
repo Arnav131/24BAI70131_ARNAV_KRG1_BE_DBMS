@@ -1,4 +1,4 @@
-Experiment 2: Advanced Data Aggregation and Filtering
+# Experiment 2: Advanced Data Aggregation and Filtering 
 1. Aim of the Session
 The aim of this practical is to learn how to use group functions and conditional filtering in SQL. In this session, we use the GROUP BY, HAVING, and ORDER BY clauses to analyze employee data and extract useful information such as department-wise average salary.
 
