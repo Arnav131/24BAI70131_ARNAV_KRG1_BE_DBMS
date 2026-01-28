@@ -2,13 +2,13 @@
 1. Aim of the Session-
 To understand the basic structure of a PL/SQL program by creating and executing a simple PL/SQL block that includes declaration and execution sections, and to display output using built-in procedures.
 
-2. Objective of the Session
+## 2. Objective of the Session
 To create a simple PL/SQL program demonstrating Declaration Section and Execution Section.
 
-3 . Problem Statement:
+## 3 . Problem Statement:
 Design and implement a simple PL/SQL program that demonstrates the basic structure of a PL/SQL block. The program should include a declaration section to define variables and an execution section to perform operations using those variables and display the results using appropriate output statements.
 
-4. Theory :
+### 4. Theory :
 PL/SQL (Procedural Language/SQL) is Oracle’s procedural extension to SQL.
 A PL/SQL program is divided into three sections:
 1.	Declaration Section – used to declare variables and constants
@@ -16,11 +16,11 @@ A PL/SQL program is divided into three sections:
 3.	Exception Section (optional) – handles runtime errors
 In this experiment, a simple PL/SQL block is used to demonstrate variable declaration, computation, and output display.
 
-5.Software Requirements
+### 5.Software Requirements
 •	Database Management System: Oracle Database
 •	Database Administration Tool: Oracle Live SQL 
 
-6. Experiment Steps
+### 6. Experiment Steps
 1.	Open Oracle Live SQL / SQL Developer
 2.	Declare required variables in the declaration section
 3.	Perform calculations in the execution section
@@ -28,7 +28,7 @@ In this experiment, a simple PL/SQL block is used to demonstrate variable declar
 5.	Execute the PL/SQL block
 6.	Observe the output in the DBMS output window
 
-#Declaration Section (DECLARE)
+## Declaration Section (DECLARE)
 •	Variables are declared and initialized:
 
 
@@ -36,7 +36,7 @@ o	emp_id → Employee ID
 o	emp_name → Employee Name
 o	emp_salary → Employee Salary
 
-# Execution Section (BEGIN ... END)
+## Execution Section (BEGIN ... END)
 •	DBMS_OUTPUT.PUT_LINE is used to display output.
 7.	Procedure of the Practical:
 1.	Start the system and open the Oracle database environment.
@@ -76,20 +76,21 @@ begin
 end;
 
 
-8. Output:
+## 8. Output:
 The program successfully displays employee details, bonus amount, and total salary using DBMS output.
 ![alt text](OUTPUT-1.png)
 
 
-9.Result
+## 9.Result
 The PL/SQL program was executed successfully. Variables were declared in the declaration section, calculations were performed in the execution section, and output was displayed using DBMS_OUTPUT.PUT_LINE.
 
-10.Learning Outcomes
+## 10.Learning Outcomes
 After completing this experiment, the student is able to:
 •	Understand the basic structure of a PL/SQL program
 •	Declare and initialize variables in PL/SQL
 •	Perform arithmetic operations in PL/SQL
 •	Display output using built-in PL/SQL procedures
 •	Execute a PL/SQL block successfully in Oracle
+
 
 
