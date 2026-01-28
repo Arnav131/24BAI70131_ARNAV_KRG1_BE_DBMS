@@ -1,4 +1,4 @@
-Experiment 3 : 
+# Experiment 3 : 
 1. Aim of the Session-
 To understand the basic structure of a PL/SQL program by creating and executing a simple PL/SQL block that includes declaration and execution sections, and to display output using built-in procedures.
 
@@ -91,4 +91,5 @@ After completing this experiment, the student is able to:
 •	Perform arithmetic operations in PL/SQL
 •	Display output using built-in PL/SQL procedures
 •	Execute a PL/SQL block successfully in Oracle
+
 
