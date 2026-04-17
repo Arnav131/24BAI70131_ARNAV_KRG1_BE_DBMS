@@ -1,6 +1,6 @@
 # Experiment 9
 
-## Student Name: Arnav Prajapati // leetcode 1227
+## Student Name: Arnav Prajapati 
 ## UID: 24BAI70131
 ## Branch: CSE - AIML				
 ## Section/Group: 24AIT_KRG G1
