@@ -186,19 +186,19 @@
 ## 8.Input/Output Analysis
 ### OUTPUT SCREENSHOTS
 ### a:
-	![alt text](1.png)
+![alt text](1.png)
 ### b:
-    ![alt text](2.png)
+![alt text](2.png)
 ### c:
-    ![alt text](3.png)
+![alt text](3.png)
 ### d:
-    ![alt text](4.png)
+![alt text](4.png)
 ### e:
-    ![alt text](5.png)
+![alt text](5.png)
 ### f:
-    ![alt text](6.png)
+![alt text](6.png)
 ### g: 
-    ![alt text](7.png)
+![alt text](7.png)
 
 ## 9.	Learning Outcomes
     •	After completing this experiment, the learner will be able to:
